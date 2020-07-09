@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋🏾
 
 
 I am a Software Engineer focused on Flutter and Javascript. 
