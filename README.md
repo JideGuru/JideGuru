@@ -18,6 +18,8 @@
 <a href="mailto:guruliciousjide@gmail.com">
   <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;&nbsp;
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=jideguru&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
   <!--
 </p>
 <p align='center'>
