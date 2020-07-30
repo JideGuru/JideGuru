@@ -3,7 +3,7 @@
 <p align='center'>I am a Software Engineer focused on Flutter💙 and Javascript💛. </p>
 
 <p align='center'>
-<a href="https://wa.me/22961701427?text=Hello Jide">
+<a href="https://wa.me/22961701427?text=Hello Jide, i got your contact from your Github repo.">
   <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>&nbsp;&nbsp;
 <a href="https://twitter.com/iamjideguru">
