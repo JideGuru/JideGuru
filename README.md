@@ -2,7 +2,7 @@
 
 <p align='center'>I am a Software Engineer focused on Flutter💙 and Javascript💛. </p>
 
-![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/10835183?style=for-the-badge)
+<p align='center'>
 <a href="https://wa.me/22961701427?text=Hello Jide, i got your contact from your Github repo.">
   <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>&nbsp;&nbsp;
@@ -18,7 +18,12 @@
 <a href="mailto:guruliciousjide@gmail.com">
   <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;&nbsp;
-  
+</p>
+<p align='center'>
+  <a href="https://stackoverflow.com/users/10835183/jideguru">
+  <img src="https://img.shields.io/stackexchange/stackoverflow/r/10835183?style=for-the-badge" />
+</a>&nbsp;&nbsp;
+</p>
 <!--
 <img src="https://github-readme-stats.vercel.app/api?username=jideguru&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
 </p>
