@@ -1,6 +1,6 @@
 Joined Github **3** years ago.
 
-Since then I pushed **855** commits, opened **59** issues, submitted **121** pull requests, received **4121** stars across **90** personal projects and contributed to **27** public repositories.
+Since then I pushed **2092** commits, opened **59** issues, submitted **121** pull requests, received **4121** stars across **90** personal projects and contributed to **27** public repositories.
 
 Most used languages across my projects:
 
@@ -13,4 +13,4 @@ Most used languages across my projects:
 ![C](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23555555&message=C%EF%B8%B10.9%25)
 ![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B11.9%25)
 
-<p align="right"><sub>Generated using <a href="https://github.com/marketplace/actions/profile-readme-stats">teoxoy/profile-readme-stats</a></sub></p>
+<p align="right"><sub>Generated using <a href="https://github.com/marketplace/actions/profile-readme-stats">teoxoy/profile-readme-stats</a></sub></p> 
