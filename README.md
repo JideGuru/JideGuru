@@ -1,7 +1,4 @@
-# Hi, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+[![Wasabeef's github stats](https://github-readme-stats.vercel.app/api?username=jideguru&show_icons=true&line_height=21&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jideguru&show_icons=true&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
-I Joined Github **3** years ago.
-
-Since then I pushed **2097** commits, opened **59** issues, submitted **122** pull requests, received **4124** stars across **90** personal projects and contributed to **27** public repositories.
-
-<p align="right"><sub>Generated using <a href="https://github.com/marketplace/actions/profile-readme-stats">teoxoy/profile-readme-stats</a></sub></p> 
+<img src="https://komarev.com/ghpvc/?username=jideguru&color=blue&style=flat-square" align="right" />
