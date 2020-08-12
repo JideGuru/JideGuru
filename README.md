@@ -16,14 +16,13 @@
   <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;&nbsp;
 </p>
-
+<!--
 <p align='center'>
   <a href="https://stackoverflow.com/users/10835183/jideguru">
   <img src="https://img.shields.io/stackexchange/stackoverflow/r/10835183?style=for-the-badge" />
 </a>&nbsp;&nbsp;
 </p>
-
-
+-->
 
 
 <!--
