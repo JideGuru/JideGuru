@@ -1,6 +1,6 @@
-<h1 align='center'>Hi there 👋🏾</h1>
+<h1 align='center'>Hi there 👋🏾 </h1>
 
-<p align='center'>I am a Software Engineer focused on Flutter💙 and Javascript💛. </p>
+<p align='center'>I am a Software Engineer focused on Flutter💙 and Javascript💛. <img src="https://gpvc.arturio.dev/jideguru" /></p>
 
 <p align='center'>
 <a href="https://twitter.com/iamjideguru">
@@ -18,7 +18,7 @@
 <a href="http://wa.me/22961701427?text=Hello Jide">
   <img src="https://img.shields.io/badge/whatsapp-%34B7F1.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>&nbsp;&nbsp;
-<img src="https://gpvc.arturio.dev/jideguru" />
+
 </p>
 
 
