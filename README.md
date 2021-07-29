@@ -18,9 +18,9 @@
 <a href="http://wa.me/22961701427?text=Hello Jide">
   <img src="https://img.shields.io/badge/whatsapp-%34B7F1.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>&nbsp;&nbsp;
-<a href="http://wa.me/22961701427?text=Hello Jide">
+<!-- <a href="http://wa.me/22961701427?text=Hello Jide">
   <img src="https://img.shields.io/youtube/channel/subscribers/UCDKCzyQaoyH9pzAvLyCydmw?style=for-the-badge" />
-</a>
+</a> -->
 </p>
 
 
