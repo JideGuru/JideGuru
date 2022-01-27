@@ -15,12 +15,12 @@
 <a href="mailto:guruliciousjide@gmail.com">
   <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;&nbsp;
-<a href="http://wa.me/22961701427?text=Hello Jide">
-  <img src="https://img.shields.io/badge/whatsapp-%34B7F1.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />
-</a>&nbsp;&nbsp;
 <!-- <a href="http://wa.me/22961701427?text=Hello Jide">
+  <img src="https://img.shields.io/badge/whatsapp-%34B7F1.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>&nbsp;&nbsp; -->
+<a href="https://www.youtube.com/channel/UCDKCzyQaoyH9pzAvLyCydmw">
   <img src="https://img.shields.io/youtube/channel/subscribers/UCDKCzyQaoyH9pzAvLyCydmw?style=for-the-badge" />
-</a> -->
+</a> 
 </p>
 
 
