@@ -1,6 +1,6 @@
 <h1 align='center'>Hi there 👋🏾 </h1>
 
-<p align='center'>I am a Software Engineer focused on Flutter💙 and Javascript💛. <img src="https://gpvc.arturio.dev/jideguru" /></p>
+<p align='center'>I am a Software Engineer focused on Flutter💙 and Javascript💛. Also a Google Developer Expert for Flutter <img src="https://gpvc.arturio.dev/jideguru" /></p>
 
 
 <p align='center'>
