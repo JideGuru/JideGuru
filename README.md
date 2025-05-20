@@ -1,6 +1,6 @@
 <h1 align='center'>Hi there 👋🏾 </h1>
 
-<p align='center'>I am a Software Engineer focused on building mobile apps using Flutter, AI, and JavaScript. Also a Google Developer Expert for Flutter. </p>
+<p align='center'>I am a Software Engineer focused on building mobile apps using Flutter, AI, and JavaScript. Also, a Google Developer Expert for Flutter. </p>
 
 
 <p align='center'>
